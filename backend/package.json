@@ -7,10 +7,10 @@
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "Agniv Ghosh",
+  "author": "Kuldeep Singh",
   "contributors": [
     {
-      "name": "Kuldeep Singh",
+      "name": "Kuldeep singh",
       "email": "30.kuldeeps@gmail.com",
       "url": "https://github.com/Kuldeep-3009"
     }
