@@ -19,13 +19,11 @@ It allows users to register, login, and manage tasks.
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/MERN-ToDo-App.git
-   
-Install backend dependencies:
-cd backend
-npm install
-npm run dev
+   cd backend
+   npm install
+   npm run dev
 
-Install frontend dependencies:
-cd frontend
-npm install
-npm start
+   cd frontend
+   npm install
+   npm start
+
